@@ -2,7 +2,7 @@
 
 ## Overview
 ### Assignment 1
-Goal
+Goal  
 • Write Python functions and test your codes for the following two topics that we have learned:  
 • RREF  
 • The number of necessary (integer) multiplications for the sequence of matrix multiplications  
